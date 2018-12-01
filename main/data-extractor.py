@@ -18,7 +18,7 @@ from credentials import COGNITE_API_KEY
 configure_session(COGNITE_API_KEY, 'publicdata')
 
 import os
-ROOT_PATH = os.path.abspath(".").split("code2")[0]
+ROOT_PATH = os.path.abspath(".").split("thesis-code2")[0]
 MAIN_PATH = ROOT_PATH + "main/"
 EXPORT_PATH = ROOT_PATH + "exports/"
 DATA_PATH = ROOT_PATH + "data/"
