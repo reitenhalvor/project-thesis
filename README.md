@@ -7,6 +7,7 @@ Change directory to the folder you want to clone the repository in, then clone t
 
 ```
 git clone https://github.com/reitenhalvor/thesis-code2
+cd thesis-code2/
 ```
 
 2. Make a virtual environment and activate it.
