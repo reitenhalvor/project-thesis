@@ -68,6 +68,9 @@ Thumbs.db
 credentials.py
 .credentials
 
+# Custom folders
+archive/
+
 # IDEA
 .idea
 idea/
